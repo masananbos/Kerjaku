@@ -1,0 +1,18 @@
+{
+    "Ads": [
+        {
+            "on_off_ads": "on",
+            "banner_type": "admob",
+            "inters_type": "admob",
+            "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+            "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+            "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interval_inters": 9,
+            "min_interstitial_cooldown_ms": 60000,
+            "min_app_open_cooldown_ms": 60000
+        }
+    ]
+}
