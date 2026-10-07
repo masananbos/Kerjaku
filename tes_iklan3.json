@@ -6,7 +6,7 @@
             "inters_type": "admob",
             "admob_banner": "ca-app-pub-3940256099942544/6300978111",
             "admob_inters": "ca-app-pub-3940256099942544/1033173712",
-            "interval_inters": 4
+            "interval_inters": 1
         }
     ]
 }
